@@ -1,20 +1,12 @@
-{% hint style="info" %}
-
 # Purpose
 
-To establish an estimate number for a project for document, information, and expenditure tracking purposes. Z
-
-{% endhint %}
-
-{% hint style="info" %}
+To establish an estimate number for a project for document, information, and expenditure tracking purposes.
 
 # Responsibility
 
 Preconstruction Manager/Estimator
 
-{% endhint %}
-
-# Estimate Number
+# Policy
 
 1.  The Preconstruction Manager/Estimator will request an estimate number (with the agreement of the OM responsible for the project) via Unanet by following [OP-010.1 Estimate Number Request Procedure](file:///Users/ginnyfowler/Downloads/OP-010.1%20Estimate%20Number%20Request%20Procedure.pdf).
 
@@ -54,6 +46,6 @@ Preconstruction Manager/Estimator
 
             4.  VDC Personnel assisting with BIM coordination
 
-# JOB NUMBER:
+# Job Number
 
-Reference [Policy OP-240 Project Job Number](file:///Users/ginnyfowler/OP-240%20Project%20Job%20Number/OP-240%20Project%20Job%20Number.docx) for requesting and setting up a job number.
+Reference {% content-ref url="./" %}OP-020 Preconstruction Services{% endcontent-ref %} for requesting and setting up a job number.
