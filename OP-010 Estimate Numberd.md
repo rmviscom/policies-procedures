@@ -48,4 +48,3 @@ Preconstruction Manager/Estimator
 
 # Job Number
 
-Reference [OP-020 Preconstruction Services.md](\<OP-020 Preconstruction Services.md\> "mention") for requesting and setting up a job number.
