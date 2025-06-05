@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Sections](README.md)
+* [Policies and Procedures](README.md)
 
 ## Introduction
 
