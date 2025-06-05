@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# Contents
+# Sections
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)

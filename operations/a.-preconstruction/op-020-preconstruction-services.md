@@ -14,6 +14,8 @@ Operations Manager
 
 > Preconstruction services include any and all activities provided prior to the actual construction of a project. Preconstruction services include, but are not limited to, planning, estimating, cost management, subcontractor development, strategy, and effective communication with the team. This is the time to set the project up for success by controlling the design, identifying and managing risks, maximizing profit, and developing strong relationships with our client representatives. The Operations Manager should work closely with the client and lead the overall preconstruction effort to ensure the established goals are met. (Refer to OP-020.1 Preconstruction Activities Matrix for a guide to preconstruction activities at various design stages.)
 
+
+
 To ensure overall project profitability and success by providing effective leadership during preconstruction and by performing the following activities (minimum).
 
 1. The Operations Manager shall conduct a preconstruction kick-off meeting with the R\&M team to establish strategies, work assignments, and reinforce client expectations (refer to [op-030-preconstruction-services-kickoff-meeting-intracompany.md](op-030-preconstruction-services-kickoff-meeting-intracompany.md "mention")). The R\&M team should include the Operations Manager, Project Director, Estimators, Superintendent, and Project Manager.

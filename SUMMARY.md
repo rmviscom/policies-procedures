@@ -1,6 +1,15 @@
 # Table of contents
 
-* [Contents](README.md)
+* [Sections](README.md)
+
+## Introduction
+
+* [A. About](introduction/a.-about.md)
+* [B. Vision and Values](introduction/b.-vision-and-values.md)
+* [C. Corporate Philosophy](introduction/c.-corporate-philosophy.md)
+* [D. Company Organization](introduction/d.-company-organization.md)
+* [E. Purpose of the Manual](introduction/e.-purpose-of-the-manual.md)
+* [F. Business Practices](introduction/f.-business-practices.md)
 
 ## Operations
 
@@ -27,12 +36,3 @@
 ## Administration
 
 * [Page](administration/page.md)
-
-## About
-
-* [A. Introduction](about/a.-introduction.md)
-* [B. Vision and Values](about/b.-vision-and-values.md)
-* [C. Corporate Philosophy](about/c.-corporate-philosophy.md)
-* [D. Company Organization](about/d.-company-organization.md)
-* [E. Purpose of the Manual](about/e.-purpose-of-the-manual.md)
-* [F. Business Practices](about/f.-business-practices.md)
