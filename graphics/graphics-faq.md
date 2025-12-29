@@ -176,8 +176,9 @@ You can create your own personal CC library.
 
 <details>
 
-<summary>How can I customize InDesign for my workflow?</summary>
+<summary>How can I customize InDesign preferences for my workflow?</summary>
 
 With all document windows closed, edit your InDesign preferences. These preferences will be the default on all documents going forward. [Learn more about preferences in InDesign.](https://helpx.adobe.com/indesign/using/setting-preferences.html)
 
 </details>
+

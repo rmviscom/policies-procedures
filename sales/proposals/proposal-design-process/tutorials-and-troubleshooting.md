@@ -1,4 +1,4 @@
-# Template FAQ and Troubleshooting
+# Tutorials and Troubleshooting
 
 <details>
 
@@ -172,3 +172,165 @@ There are multiple paragraph styles designated for quoting the questions found i
 
 </details>
 
+<details>
+
+<summary>Page Numbering</summary>
+
+Page numbering in InDesign can be customized by section. In the Default template, all pages are in a single section beginning with page 1.
+
+To customize page numbering, you can designate any page as the beginning of a new section. However, you cannot have two pages numbered 1, for example - one section must have a different _style_ of numbering (like roman numerals).
+
+#### To change the location of page 1 in your document:
+
+1. **Start by changing the default numbering to roman numerals (i, ii, iii, etc.).** _This ensures you can create a new page 1 without getting the error that there is already a page 1 in your document._
+   1. In the Pages panel, right-click or ctrl-click on the cover of your document
+   2. Select **Numbering & Section Options...**\
+      &#x20;![](<../../../.gitbook/assets/Screenshot 2025-12-21 at 10.16.39 AM.png>)
+   3. Under **Page Numbering**, change style to <mark style="color:blue;">i, ii, iii, iv...</mark> \
+      ![](<../../../.gitbook/assets/Screenshot 2025-12-21 at 10.19.51 AM.png>)
+
+
+
+2. **Create a new section beginning with page 1.**
+   1. Right click or ctrl-click on your new page 1 in the pages panel (usually your first tab page).
+   2. Select **Numbering & Section Options...**
+   3. Check **Start Section**
+   4. Select **Start Page Numbering at: 1**&#x20;
+   5. Change Style to <mark style="color:blue;">1, 2, 3, 4...</mark>\
+      ![](<../../../.gitbook/assets/Screenshot 2025-12-21 at 10.25.40 AM.png>)
+
+</details>
+
+<details>
+
+<summary>Margins, Columns, and Guides</summary>
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-12-27 at 10.33.39 AM.png" alt=""><figcaption><p>Types of guides and their default colors in InDesign</p></figcaption></figure>
+
+{% hint style="info" %}
+Go to **View > Grids & Guides** to see useful options. It's recommended to leave **Snap to Guides** and **Smart Guides** turned on generally.
+{% endhint %}
+
+### Margins
+
+The margins on our templates designated by purple lines, and are set to .75" on the left and right (or inside and outside on facing pages). This is generous, but allows for binding if you need to print your proposal.
+
+**Margins are important for maintaining a clean, professional look - keep content inside the page margins whenever possible.**
+
+### Columns
+
+Each page in our template contains column guides. These are meant to help align your content neatly and can be treated as suggestions - you do not have to align all content to a column guide.
+
+{% hint style="info" %}
+You can change the number of columns on a given page to suit your needs by going to **Layout > Margins and Columns...**
+{% endhint %}
+
+### Guides
+
+You can add guides to any page by clicking and dragging from the ruler bars on the left and top. These are meant to be helpful and can also be treated as suggestions.
+
+
+
+
+
+</details>
+
+<details>
+
+<summary>Org Charts</summary>
+
+Org chart elements are made up of a table inside a text frame.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-12-27 at 9.50.13 PM.png" alt=""><figcaption></figcaption></figure>
+
+In addition to paragraph styles for the Role, Name, and Body, the look of Org Chart elements is governed by cell styles. [Learn more about cell style options.](https://helpx.adobe.com/indesign/using/table-cell-styles.html)
+
+
+
+</details>
+
+<details>
+
+<summary>Design Templates</summary>
+
+See [Design Templates](design-templates-and-layouts.md)
+
+</details>
+
+<details>
+
+<summary>Matrix Templates</summary>
+
+### Exporting data from Unanet
+
+Our teams frequently want to include a matrix in a proposal showing which team members have worked together before. To simplify this process, follow these steps.
+
+#### Step 1
+
+To create a matrix, start by **exporting the data you need from Unanet**. [A report template has been created for you.](https://services.cosential.com/reports20/ReportsResults.cfm?ReportID=KbRP9DzEHLYWuusGkvUL4lriEgkQ~~\&ReportTypeID=1)
+
+You can customize to add fields you need (currently contains Project Name, Construction Schedule - Calc Start Date, Construction Schedule - Calc End Date, Staff Team Name, Project Number, Size - Building Size, Final (or Current) Contract PC) and on the second page of the customization, you will add your team members here, make sure include in main query is checked as shown:
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+Once you've downloaded your report, delete extraneous data from the Excel sheet and share with your team for changes.&#x20;
+
+#### Step 2
+
+Upload to CoPilot or ChatGPT and use this prompt:
+
+_I am uploading a spreadsheet containing \[a list of projects] and \[the teams who have worked on them]. Create a matrix to display which team members have worked on which project. Show the projects as headers in each column, and the team members as headers in each row. Use X to mark the overlap. Provide a downloadable spreadsheet when finished._
+
+#### Step 3
+
+This folder:
+
+{% code overflow="wrap" %}
+```
+/Shared/Marketing Department/Sales/Templates/Proposal Templates/Matrix Templates
+```
+{% endcode %}
+
+contains templates for creating a data matrix in InDesign.&#x20;
+
+</details>
+
+<details>
+
+<summary>Book Files</summary>
+
+The Book Files folder is useful if you are working closely with another marketer on an RFP. We can set up each section as its own InDesign file so that two people can work on different parts of the document at the same time. Reach out to the graphics team for support.
+
+</details>
+
+## Troubleshooting
+
+<details>
+
+<summary>InDesign is running slow</summary>
+
+**InDesign features that slow you down, but you can turn them off:**
+
+**Live Preflight** can be turned off by deselecting the On checkbox.
+
+Preferences > General > **Show Home Screen When No Documents Are Open** can be turned off.
+
+Preferences > **Display Performance** > set to Typical renders the images at screen-rez, but sacrifices color management.
+
+Preferences > Interface > Options > **Live Screen Drawing** can be set to Never and it will draw more quickly.
+
+Preferences > File Handling > Saving InDesign files > **Save Preview Images** switches can be set to off.
+
+Preferences > Type > **Smart Text Reflow** could be turned off.
+
+Preferences > Advanced Type > **Type Contextual Controls** are two text switches that can slow down InDesign.
+
+Pages Panel > panel menu button > Panel Options allows you to deselect **Show Thumbnails**.
+
+Hyperlinks > panel menu button > and deselect **Auto Update URL Status**.
+
+**Threaded Textframes**: consider flowing and threading text for only a few pages/frames instead of many.
+
+**Cross-References** will slow down InDesign. Consider saving them for last.
+
+</details>
