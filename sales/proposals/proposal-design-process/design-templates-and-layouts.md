@@ -97,12 +97,11 @@ There are six base templates. Choose the one that fits your needs when setting u
 
 ### How to use Base Templates
 
-1. Choose which file best suits your needs (standard, condensed, facing pages, or A3 pages).
-2. Open the template file, and save the document to your Opportunity folder.
-3. Enter the name of the project and name of the client on the Cover.&#x20;
-4. Using your document outline, create all tab pages.
-5. Create placeholder pages for future content.
-6. Begin compiling project-specific content and entering it into your document.
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
+
 
 
 

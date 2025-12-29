@@ -10,7 +10,19 @@ Consider your requirements and preferences before choosing a horizontal or verti
 {% step %}
 ### Open template file
 
+Choose the file that suits your proposal requirements from this folder:
 
+```
+/Shared/Marketing Department/Sales/Templates/Proposal Templates
+```
+{% endstep %}
+
+{% step %}
+### Save your document the opportunity folder > client
+
+```
+Shared/Marketing Department/Opportunities
+```
 {% endstep %}
 
 {% step %}
