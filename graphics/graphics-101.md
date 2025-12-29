@@ -75,12 +75,6 @@ Watch a video training on the [OpenAsset-InDesign plugin](https://go.openasset.c
 * [**Collateral Library**](https://robinsmorton-global.monday.com/boards/9996881586)\
   Library of all our corporately managed documents including jobsite signage
 {% endstep %}
-
-{% step %}
-###
-
-
-{% endstep %}
 {% endstepper %}
 
 

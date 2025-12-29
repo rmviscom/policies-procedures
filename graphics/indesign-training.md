@@ -139,11 +139,3 @@ When you choose Generate Static Caption, a new text box is created containing th
 When you choose Generate Live Caption, a new variable is generated automatically based on the current caption settings. For example, if the Description metadata type is selected in the Caption Setup dialog box, a variable called “Live Metadata Caption: Description” is created.
 
 </details>
-
-<details>
-
-<summary>Page Count</summary>
-
-There is a dedicated text box available in proposal templates and in the Proposals & A3 Graphics/Page Layouts
-
-</details>

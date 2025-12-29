@@ -11,50 +11,41 @@ icon: text
 Have questions about InDesign styles? Reach out to [Ginny Fowler](mailto:ginny.fowler@robinsmorton.com) or [Allison Mathews](mailto:allison.mathews@robinsmorton.com).
 {% endhint %}
 
-## Types of styles
-
-* Paragraph styles
-* Character styles
-* Object styles
-* Table styles
-* Cell styles
-
-### Paragraph and Character Styles
+## Paragraph Styles, Character Styles, and Overrides
 
 [Basics of pararaph and character styles](https://helpx.adobe.com/indesign/using/paragraph-character-styles.html)
 
-#### Why use styles?
+**Why use styles?**&#x20;
 
-Using styles in InDesign saves time and ensures consistency by allowing you to apply a pre-defined set of formatting rules to text and objects with a single click. This makes global changes simple, as editing a style automatically updates all instances where that style is used, which is especially useful for large documents. Styles also improve workflow by minimizing repetitive manual formatting, reducing errors, and providing a more professional and organized final product.
+* It saves time and guarantees consistency.&#x20;
+* It allows you to apply a pre-defined set of formatting rules to text and objects with a single click.
+* It makes global changes simple — editing a style automatically updates all instances where that style is used, which is especially useful for proposals.&#x20;
+* Styles can be searched using the Find/Change function, which makes editing faster.
 
-#### Paragraph styles are _rules_.
+### Paragraph styles are rules that define the baseline.
 
-A paragraph style determines what font, size, leading, spacing, etc. applies to a given paragraph of text. They tend to be named for the purpose that type of paragraph serves: Heading, List, Body.
+A paragraph style establishes:
 
-**Every paragraph in your document should have a paragraph style applied.**
+* Font family
+* Size
+* Leading
+* Indents
+* Space before/after
+* Alignment
+* Hyphenation, etc.
+
+That’s the “default behavior” of the text. Everything starts here. **Every paragraph in your document should have a paragraph style applied.**
 
 {% hint style="info" %}
 A paragraph is all the characters between two hard returns. Hard returns are marked by this symbol when you turn on the Show Hidden Characters feature: ¶
 {% endhint %}
 
-#### Character styles are _exceptions_.
+<details>
 
-Character styles apply only to selected characters, NOT to the entire paragraph by default. If you wanted to change some of the words in a sentence to bold, you would apply the bold character style to those words.&#x20;
+<summary>Overview of the paragraph styles panel</summary>
 
-#### When you manually change a feature of the text, it creates an _override_.
+<figure><img src="../../.gitbook/assets/styles-panel-pcstyles-id.avif" alt=""><figcaption></figcaption></figure>
 
-Style overrides in InDesign are manual formatting changes to text that are not saved to the original paragraph or character style. You can identify overrides with the "toggle style override highlighter" (a light blue highlight) and clear them by selecting the text and clicking "Clear Overrides in Selection" in the Styles panel, or you can "Redefine Style" to add the overrides to the style's definition
-
-#### Paragraph Styles panel
-
-{% columns %}
-{% column %}
-<figure><img src="../.gitbook/assets/styles-panel-pcstyles-id.avif" alt=""><figcaption></figcaption></figure>
-
-
-{% endcolumn %}
-
-{% column %}
 A. More options (hamburger menu)
 
 B. [Quick Apply](https://youtu.be/6hWofrThIqo?t=31)
@@ -74,25 +65,51 @@ H. Add selected style to my current CC Library&#x20;
 I. Existing Style&#x20;
 
 J. Default Style
-{% endcolumn %}
-{% endcolumns %}
+
+</details>
+
+### Character styles are _intentional_ _exceptions_.
+
+Character styles apply only to selected characters. A character style might define:
+
+* Bold
+* Color
+* Small caps
+* Superscript
+
+Crucially:
+
+* It **does not reset** the paragraph style.
+* It only changes what it explicitly declares.
+* Remove it, and the text immediately snaps back into compliance.
+
+That’s why character styles are safe.
+
+### Overrides are undocumented chaos.
+
+Overrides:
+
+* Are invisible unless you know where to look
+* Don’t scale
+* Don’t survive redesigns
+* Can’t be searched reliably
+* Will absolutely screw up global updates
+
+Overrides are how templates rot.
+
+#### When you manually change a feature of the text, it creates an _override_.
+
+Style overrides in InDesign are manual formatting changes to text that are not saved to the original paragraph or character style.
+
+[Learn more about overrides.](https://helpx.adobe.com/indesign/using/paragraph-character-styles.html?x-product=Helpx%2F1.0.0\&x-product-location=Search%3AForums%3Alink%2F3.7.6#style-overrides)
+
+{% hint style="info" %}
+If there are any overrides to a character or paragraph style, you will see a plus sign next to the style name.
+{% endhint %}
 
 
 
-## Overview of RM proposal styles
-
-### \_Body
-
-This is the base style for all body content in your documents.&#x20;
-
-* Font family: NB International Pro
-* Weight: Light
-* Size: 9pt
-* Leading: 12pt
-
-**If needed in your document, you can change the \_Body style to 8pt size and 10pt leading.** This will allow you to fit more content on the page. Do not go below 8pt for body copy. You can go as small as 7pt for labels, table content, or other small chunks of text.
-
-### GREP
+## GREP
 
 [Deep dive into GREP](https://redokun.com/blog/grep-indesign)
 
@@ -126,7 +143,7 @@ If you have a small block of text and it keeps disappearing because it overflows
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
-<figure><img src="../.gitbook/assets/Screenshot 2025-11-21 at 9.06.59 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-11-21 at 9.06.59 AM.png" alt=""><figcaption></figcaption></figure>
 
 
 {% endcolumn %}
@@ -134,7 +151,7 @@ If you have a small block of text and it keeps disappearing because it overflows
 
 
 
-#### Dependencies
+## Dependencies
 
 When you create a new paragraph style, you can set it to inherit qualities from another paragraph style. This means that when you change the base style, those changes will flow down to other styles that are "based on" the base style.&#x20;
 
