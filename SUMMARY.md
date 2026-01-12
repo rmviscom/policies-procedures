@@ -134,6 +134,7 @@
   * [Presentation Preparation](sales/presentations/presentation-preparation.md)
   * [Roles and Responsibilities](sales/presentations/roles-and-responsibilities.md)
   * [Q\&A Prep](sales/presentations/q-and-a-prep.md)
+  * [Tutorials and Troubleshooting](sales/presentations/tutorials-and-troubleshooting.md)
 * [Seller-Doer Model](sales/seller-doer-model.md)
 * [Strategic Pursuits](sales/strategic-pursuits.md)
 * [Tracking and Reporting](sales/tracking-and-reporting.md)

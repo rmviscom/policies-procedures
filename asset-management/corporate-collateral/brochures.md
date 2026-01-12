@@ -1,10 +1,10 @@
----
-description: >-
-  Also see Sales Collateral:
-  https://help.buildfore.com/marcomm-policies-and-procedures/sales/collateral#brochures
----
-
 # Brochures
+
+{% hint style="info" %}
+## Browse brochures here:
+
+[https://robinsmorton-global.monday.com/overviews/34922874](https://robinsmorton-global.monday.com/overviews/34922874)
+{% endhint %}
 
 ## Art
 

@@ -1,5 +1,7 @@
 # Tutorials and Troubleshooting
 
+## Tutorials
+
 <details>
 
 <summary>Layers</summary>
@@ -150,9 +152,9 @@ The purpose of headings is to allow readers to skim the page and still understan
 
 The organization of your header styles should correspond to your content outline. Larger headers represent higher level sections, with smaller headings below. This allows the user to visually understand the organization of the content.
 
-| Your outline                                                                                                                                              | Your layout                                                                                                                              |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>I. Our Value<br>      A. Quality<br>      B. Safety<br>      C. Budget<br>            1. Early procurement<br>            2. Target Value Delivery</p> | <div><figure><img src="../../../.gitbook/assets/Screenshot 2025-12-08 at 9.24.00 AM.png" alt=""><figcaption></figcaption></figure></div> |
+| Your outline                                                                                                                                              | Your layout                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| <p>I. Our Value<br>      A. Quality<br>      B. Safety<br>      C. Budget<br>            1. Early procurement<br>            2. Target Value Delivery</p> | <img src="../../../.gitbook/assets/Screenshot 2025-12-08 at 9.24.00 AM.png" alt="" data-size="original"> |
 
 {% hint style="success" %}
 ## Best practice
@@ -300,6 +302,14 @@ contains templates for creating a data matrix in InDesign.&#x20;
 <summary>Book Files</summary>
 
 The Book Files folder is useful if you are working closely with another marketer on an RFP. We can set up each section as its own InDesign file so that two people can work on different parts of the document at the same time. Reach out to the graphics team for support.
+
+</details>
+
+<details>
+
+<summary>Parent Pages</summary>
+
+
 
 </details>
 
