@@ -36,7 +36,7 @@ You can add layers to your document as needed.
 
 <details>
 
-<summary>Table of Contents</summary>
+<summary>Table of Contents (TOC)</summary>
 
 Our templates include a Table of Contents that can be updated to automatically show the Section Headers from tab pages along with their correct page numbers.&#x20;
 

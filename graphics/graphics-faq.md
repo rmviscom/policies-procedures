@@ -182,3 +182,18 @@ With all document windows closed, edit your InDesign preferences. These preferen
 
 </details>
 
+<details>
+
+<summary>How does the graphics team manage the sales proposal templates in InDesign?</summary>
+
+#### Parent pages, styles, and swatches
+
+All standard templates contain the same parent pages, swatches, and styles. These are created and managed through the PROP Core Styles.indd file, and then synced to the individual template files using an InDesign book, described below.
+
+1. Open the **Template Management.indb** file in InDesign.
+2. Open the **PROP Core Styles** document. Make changes to parent pages, color swatches, paragraph, character, or object styles as needed.
+3. Synchronize using the book panel in InDesign.
+4. Save and close book.
+5.
+
+</details>

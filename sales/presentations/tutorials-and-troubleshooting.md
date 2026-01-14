@@ -21,16 +21,16 @@ Using a branded theme will automatically add our brand colors in your Microsoft 
 {% hint style="danger" %}
 ## Use Arial exclusively in all presentations.
 
-NB International Pro may be substituted for an off-brand font if the computer running your file does not have it installed.&#x20;
+NB International Pro will only work if it is installed on the machine that is running the slide show. Otherwise, it will be substituted for a default font and will look wrong.&#x20;
 
 No other Microsoft fonts are approved for branded usage.
 {% endhint %}
 
-### Find/replace fonts in your presentation
+#### Find/replace fonts in your presentation
 
 In Powerpoint, go to **Format > Replace Fonts...** and select every font that is not Arial and replace it with Arial.
 
-### Font sizes
+#### Font sizes
 
 {% hint style="info" %}
 Avoid slides where all the text is the same size. Hierarchy is good.
@@ -42,9 +42,21 @@ When using Robins & Morton Powerpoint templates, 28pt is the standard body font 
 
 <details>
 
-<summary>Outlining Fonts</summary>
+<summary>Outlining Fonts/Converting Text to Shapes</summary>
 
+If you want to use NB International Pro for a headline or display font safely, you can convert it to a shape.
 
+1.  Insert a text box and type your text. Select your font and size. <br>
+
+    <div align="left"><figure><img src="../../.gitbook/assets/convert-text-to-shape-fragment-ppt2016-mac-2.webp" alt="" width="328"><figcaption></figcaption></figure></div>
+2.  Insert a rectangle that completely covers the text box.<br>
+
+    <div align="left"><figure><img src="../../.gitbook/assets/convert-text-to-shape-fragment-ppt2016-mac-3.webp" alt="" width="329"><figcaption></figcaption></figure></div>
+3. Select both the rectangle and text box.&#x20;
+4. Go to the Shape Format tab.
+5.  Click Merge Shapes, then select Intersect.<br>
+
+    <div align="left"><figure><img src="../../.gitbook/assets/Screenshot 2026-01-13 at 8.11.20 PM.png" alt="" width="155"><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -82,14 +94,6 @@ PowerPoint sections are used to organize slides into groups, making it easier to
 
 <details>
 
-<summary>Animations</summary>
-
-
-
-</details>
-
-<details>
-
 <summary>Transitions</summary>
 
 
@@ -108,9 +112,7 @@ PowerPoint sections are used to organize slides into groups, making it easier to
 
 <summary>Hide Background Graphics</summary>
 
-There is a checkbox in the format pane that allows you to&#x20;
-
-This check box will hide any "default" graphics on your slide, like the wordmark in the footer.
+This check box will hide any locked graphics on your slide, like the wordmark in the footer.
 
 </details>
 
@@ -202,8 +204,6 @@ Visual media can be animated to add flair and focus, but it’s important to use
 #### &#x20;
 
 </details>
-
-
 
 <details>
 

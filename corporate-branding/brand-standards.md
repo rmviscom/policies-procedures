@@ -8,8 +8,8 @@ At Robins & Morton, our brand is more than the logo on our hard hats – our bra
 
 Below are our Robins & Morton brand standards customized for Marketing, Departments and Jobsites.&#x20;
 
-* [Robins & Morton Brand Standards (for Department and Jobsites) ](https://hub.robinsmorton.com/content/page/665d2a0582f1f50fca0db3f6)
-* [Robins & Morton Brand Standards (for Marketing Use Only)](https://robinsmorton.egnyte.com/navigate/file/100d78d1-baac-4330-8abc-afe5ca590d1d)
+* [Robins & Morton Brand Standards (for Department and Jobsites)](https://hub.robinsmorton.com/content/page/665d2a0582f1f50fca0db3f6)
+* [Robins & Morton Brand Standards (for Marketing Use Only)](https://robinsmorton.gitbook.io/marketing-and-communications/brand-guidelines)
 
 {% hint style="info" %}
 If you have any questions related to either of these documents, please contact [Jacquie Stamper](mailto:jharty@robinsmorton.com), [Ginny Fowler](mailto:ginny.fowler@robinsmorton.com), or [Katy Klaproth](mailto:kklaproth@robinsmorton.com)
