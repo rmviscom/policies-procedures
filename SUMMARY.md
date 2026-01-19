@@ -141,7 +141,7 @@
 
 ## Graphics
 
-* [Collateral Library](https://robinsmorton-global.monday.com/boards/9996881586)
+* [Collateral Library](https://robinsmorton-global.monday.com/boards/9996881586/views/231740690)
 * [Graphics 101](graphics/graphics-101.md)
 * [Graphics FAQ](graphics/graphics-faq.md)
 * [InDesign Training](graphics/indesign-training.md)
