@@ -60,6 +60,7 @@
     * [Construction Types](asset-management/unanet/projects/construction-types.md)
     * [Primary Categories](asset-management/unanet/projects/primary-categories.md)
     * [Greenfield Hospital Secondary Categories](asset-management/unanet/projects/greenfield-hospital-secondary-categories.md)
+  * [Reports](asset-management/unanet/reports.md)
   * [Unanet and Bridgit Integration](asset-management/unanet/unanet-and-bridgit-integration.md)
 
 ## Corporate Branding
