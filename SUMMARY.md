@@ -62,6 +62,7 @@
     * [Greenfield Hospital Secondary Categories](asset-management/unanet/projects/greenfield-hospital-secondary-categories.md)
   * [Reports](asset-management/unanet/reports.md)
   * [Unanet and Bridgit Integration](asset-management/unanet/unanet-and-bridgit-integration.md)
+  * [Publisher](asset-management/unanet/publisher.md)
 
 ## Corporate Branding
 

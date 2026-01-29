@@ -6,6 +6,14 @@ coverY: 0
 
 # Intro to Robins & Morton
 
+{% hint style="info" %}
+## This is a repository for Marketing and Communications team policies, procedures, and documentation.
+
+If you'd like to add or edit anything, please reach out to [Ginny Fowler](mailto:ginny.fowler@robinsmorton.com).
+
+Any process documentation or how-tos that need to be accessed outside of the MarComms team should be added to the [HUB Knowledge Base](https://hub.robinsmorton.com/content/news/channel/65e515bbcdf7330ea1f5ff29/articles/0).
+{% endhint %}
+
 ## General Information
 
 * [Who we are](https://www.robinsmorton.com/about/)

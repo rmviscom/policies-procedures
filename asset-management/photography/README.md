@@ -13,7 +13,7 @@ To schedule project photography or headshots, contact [Skylar Dickson.](mailto:s
 
 Open Asset is a cloud-based digital asset management tool. Marketing and Communications team members have a unique login with access to upload and download assets.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>OpenAsset Homepage</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>OpenAsset Homepage</p></figcaption></figure>
 
 This central repository organizes and stores the following Robins & Morton assets:
 

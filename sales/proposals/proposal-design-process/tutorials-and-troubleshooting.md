@@ -273,7 +273,7 @@ To create a matrix, start by **exporting the data you need from Unanet**. [A rep
 
 You can customize to add fields you need (currently contains Project Name, Construction Schedule - Calc Start Date, Construction Schedule - Calc End Date, Staff Team Name, Project Number, Size - Building Size, Final (or Current) Contract PC) and on the second page of the customization, you will add your team members here, make sure include in main query is checked as shown:
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once you've downloaded your report, delete extraneous data from the Excel sheet and share with your team for changes.&#x20;
 
