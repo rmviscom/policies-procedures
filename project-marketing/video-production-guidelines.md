@@ -20,10 +20,10 @@ We have two preferred video production companies that we work with regularly. Th
   205-792-1280
   * Dylan Lard – [dylan@pittsmedia.com](mailto:dylan@pittsmedia.com)
   * Cody Eldridge – [cody@pittsmedia.com](mailto:cody@pittsmedia.com)
-* **Spoken Motion**\
-  Orlando, FL\
-  407-694-1579
-  * Travis Hull – [travis@spokenmotionstudio.com](mailto:travis@spokenmotionstudio.com)
+* **Harp & Sling**\
+  Dallas, TX\
+  325-234-0050
+  * Drew Doss – [drew@harpandsling.com](mailto:drew@harpandsling.com)
 
 If the project location or specific needs make it tough to use these vendors, we can explore additional options as needed. Please contact [Katy Klaproth](mailto:kklaproth@robinsmorton.com) to coordinate additional resources.
 
