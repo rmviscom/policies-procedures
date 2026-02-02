@@ -25,12 +25,12 @@
   * [monday.com](marketing-and-communications-team-101/software-and-subscriptions/monday.com.md)
   * [OpenAsset](asset-management/photography/README.md)
   * [PlusDelta](marketing-and-communications-team-101/software-and-subscriptions/plusdelta.md)
+  * [Powerpoint](marketing-and-communications-team-101/software-and-subscriptions/powerpoint.md)
   * [Unanet](marketing-and-communications-team-101/software-and-subscriptions/unanet.md)
   * [Single Sign-on (SSO)](marketing-and-communications-team-101/software-and-subscriptions/single-sign-on-sso.md)
   * [Staffbase](marketing-and-communications-team-101/software-and-subscriptions/staffbase.md)
   * [Stock Graphics and Photos](marketing-and-communications-team-101/software-and-subscriptions/stock-graphics-and-photos.md)
   * [Two-Factor Authentication (2FA)](marketing-and-communications-team-101/software-and-subscriptions/two-factor-authentication-2fa.md)
-  * [PowerPoint](marketing-and-communications-team-101/software-and-subscriptions/powerpoint.md)
 * [Strategic Plan](marketing-and-communications-team-101/strategic-plan.md)
 * [Industry Memberships](marketing-and-communications-team-101/industry-memberships.md)
 

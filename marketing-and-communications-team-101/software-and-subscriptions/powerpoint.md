@@ -1,4 +1,4 @@
-# PowerPoint
+# Powerpoint
 
 We use PowerPoint for presentations and slide creation because it is industry standard, and allows us to collaborate with non-marketing team members.
 
