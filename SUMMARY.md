@@ -129,7 +129,7 @@
   * [Proposal Management](sales/proposals/proposal-management/README.md)
     * [Roles and Responsibilities](sales/proposals/proposal-management/roles-and-responsibilities.md)
   * [Proposal Design Process](sales/proposals/proposal-design-process/README.md)
-    * [Design Templates and Layouts](sales/proposals/proposal-design-process/design-templates-and-layouts.md)
+    * [Design Templates, Layouts, and Boilerplate](sales/proposals/proposal-design-process/design-templates-layouts-and-boilerplate.md)
     * [Quality Control](sales/proposals/proposal-design-process/quality-control.md)
     * [Proposal Printing](sales/proposals/proposal-design-process/proposal-printing.md)
     * [Tutorials and Troubleshooting](sales/proposals/proposal-design-process/tutorials-and-troubleshooting.md)

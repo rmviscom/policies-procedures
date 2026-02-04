@@ -76,7 +76,7 @@ Corporate documents can be found here: [https://robinsmorton.egnyte.com/navigate
 {% step %}
 ### Customize colors to fit your needs
 
-The proposal templates include a folder with four color swatches labeled Client Colors. You can edit these to match your client's brand colors, and those will update throughout the document.&#x20;
+The proposal templates include a folder with four color swatches labeled Custom. You can edit these to match your client's brand colors, and those will update throughout the document.&#x20;
 {% endstep %}
 
 {% step %}

@@ -197,3 +197,32 @@ All standard templates contain the same parent pages, swatches, and styles. Thes
 5.
 
 </details>
+
+<details>
+
+<summary>What's the best way to pull content from an old proposal into a new template?</summary>
+
+### Text
+
+When reusing text, the cleanest way to move content is to copy the **text** from the source document and paste into a text box in the target document.&#x20;
+
+**Styles:** If your text uses a paragraph style that also exists in the target document (style names are identical), the pasted text will have the characteristics of the style in the target document. For example: the Body style in your source doc is 9pt, but in the target doc Body is 12pt. As long as the paragraph style names are exactly the same, the pasted text will be 12pt.
+
+**Break link to styles:** To guarantee that your pasted text keeps the exact characteristics it had in the source document, before copying the text you can use the **Break Link to Style command in the Paragraph Styles panel.** After breaking the link to the style, the text will still look the same but will have no character or paragraph styles associated with it. This ensures that nothing automatically updates when you paste it into the target document.
+
+### Graphics or entire layouts
+
+1. Select the graphic or layout you want to reuse
+2. Group all the contents (Cmd+G or Ctrl+G)
+3. Copy the grouped items
+4. Paste into new document
+
+Styles: If object styles are applied in the source doc, they will also be applied when in the target doc. If the object styles in the target document are defined differently, this may cause things to move around. The solution is to go back to your source doc and **use the Break Link to Styles command in the Object Styles panel.** This keeps the appearance of the items but removes the link to the object style, ensuring that nothing changes when you paste to your target document.
+
+### Moving pages
+
+Using the move page command brings both the content and the master page from the source doc into the target doc. This can cause issues with continuity, and is generally discouraged unless you are certain the source and target files are using the same template to begin with.
+
+
+
+</details>

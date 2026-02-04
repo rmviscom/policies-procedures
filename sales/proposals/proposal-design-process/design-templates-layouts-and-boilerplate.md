@@ -1,4 +1,4 @@
-# Design Templates and Layouts
+# Design Templates, Layouts, and Boilerplate
 
 ## Base Templates
 
@@ -103,14 +103,12 @@ There are six base templates. Choose the one that fits your needs when setting u
 
 
 
-
-
 ## Layouts
 
 ```
-Shared/Marketing Department/Sales/Templates/Proposal Templates/Layouts_A3
-Shared/Marketing Department/Sales/Templates/Proposal Templates/Layouts_Horizontal
-Shared/Marketing Department/Sales/Templates/Proposal Templates/Layouts_Vertical
+Shared/Marketing Department/Sales/Templates/Proposal Templates/#Layouts_A3
+Shared/Marketing Department/Sales/Templates/Proposal Templates/#Layouts_Horizontal
+Shared/Marketing Department/Sales/Templates/Proposal Templates/#Layouts_Vertical
 ```
 
 {% hint style="danger" %}
@@ -137,7 +135,9 @@ Using the Move Pages function does not delete the page in the source document by
 ## Boilerplate
 
 ```
-Shared/Marketing Department/Sales/Templates/Proposal Templates/#Boilerplate
+Shared/Marketing Department/Sales/Templates/Proposal Templates/#Boilerplate_A3
+Shared/Marketing Department/Sales/Templates/Proposal Templates/#Boilerplate_Horizontal
+Shared/Marketing Department/Sales/Templates/Proposal Templates/#Boilerplate_Vertical
 ```
 
-Boilerplate content is generic text that is approved for publishing by the communications team. Joist can be used to access boilerplate content. Some boilerplate content exists as InDesign files that can be pulled into your proposals as is.&#x20;
+Boilerplate content is **text** that is approved for publishing by the communications team. Joist can be used to access boilerplate content. Some boilerplate content exists as InDesign files that can be pulled into your proposals as is.&#x20;

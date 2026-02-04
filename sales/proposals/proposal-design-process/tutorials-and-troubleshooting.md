@@ -255,7 +255,7 @@ In addition to paragraph styles for the Role, Name, and Body, the look of Org Ch
 
 <summary>Design Templates</summary>
 
-See [Design Templates](design-templates-and-layouts.md)
+See [Design Templates](design-templates-layouts-and-boilerplate.md)
 
 </details>
 
