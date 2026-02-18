@@ -12,6 +12,47 @@ InDesign templates for proposals are located here:
 
 There are six base templates. Choose the one that fits your needs when setting up a proposal design file.
 
+### Horizontal Templates
+
+<details>
+
+<summary><strong>H01_Standard.indt</strong></summary>
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-12-29 at 1.28.10 AM.png" alt=""><figcaption></figcaption></figure>
+
+* Cover and tab pages are 8.5"x11" horizontal.&#x20;
+* Tab pages are standard hero layouts that divide sections.&#x20;
+* Use this template if you have a generous page limit or if tab pages are excluded from your page count.
+
+</details>
+
+<details>
+
+<summary><strong>H02_Condensed.indt</strong></summary>
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-12-29 at 1.29.35 AM.png" alt=""><figcaption></figcaption></figure>
+
+* Cover and tab pages are 8.5"x11" horizontal.
+* Tab pages have condensed headers and are meant to include content.
+* Use this template if you have a strict page limit and tab pages are _not_ excluded from your page count.
+
+</details>
+
+<details>
+
+<summary><strong>H03_A3 Pages.indt</strong></summary>
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-12-29 at 1.31.05 AM.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+**This layout is meant for proposals with a very limited page count, but no restriction on page size.**
+{% endhint %}
+
+* Cover and tab pages are 11"x17" vertical.
+* Tab pages have condensed headers and are meant to include content.
+
+</details>
+
 ### Vertical Templates
 
 <details>
@@ -51,47 +92,6 @@ There are six base templates. Choose the one that fits your needs when setting u
 * Cover and tab pages are 8.5"x11" vertical.
 * Tab pages are hero layouts that divide sections.
 * Reach out to the graphics team for support when using this template.
-
-</details>
-
-### Horizontal Templates
-
-<details>
-
-<summary><strong>H01_Standard.indt</strong></summary>
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2025-12-29 at 1.28.10 AM.png" alt=""><figcaption></figcaption></figure>
-
-* Cover and tab pages are 8.5"x11" horizontal.&#x20;
-* Tab pages are standard hero layouts that divide sections.&#x20;
-* Use this template if you have a generous page limit or if tab pages are excluded from your page count.
-
-</details>
-
-<details>
-
-<summary><strong>H02_Condensed.indt</strong></summary>
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2025-12-29 at 1.29.35 AM.png" alt=""><figcaption></figcaption></figure>
-
-* Cover and tab pages are 8.5"x11" horizontal.
-* Tab pages have condensed headers and are meant to include content.
-* Use this template if you have a strict page limit and tab pages are _not_ excluded from your page count.
-
-</details>
-
-<details>
-
-<summary><strong>H03_A3 Pages.indt</strong></summary>
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2025-12-29 at 1.31.05 AM.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="danger" %}
-**This layout is meant for proposals with a very limited page count, but no restriction on page size.**
-{% endhint %}
-
-* Cover and tab pages are 11"x17" vertical.
-* Tab pages have condensed headers and are meant to include content.
 
 </details>
 
