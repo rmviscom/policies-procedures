@@ -1,19 +1,5 @@
 ---
 description: The sales leader on a pursuit is responsible for the pursuit process.
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Roles and Responsibilities

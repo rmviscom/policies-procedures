@@ -139,3 +139,27 @@ When you choose Generate Static Caption, a new text box is created containing th
 When you choose Generate Live Caption, a new variable is generated automatically based on the current caption settings. For example, if the Description metadata type is selected in the Caption Setup dialog box, a variable called “Live Metadata Caption: Description” is created.
 
 </details>
+
+<details>
+
+<summary>Locked Items</summary>
+
+A "locked" item is one that you can't click or edit before it's been unlocked. There are a few ways to lock and unlock items in your layout.
+
+1. **Object Menu > Lock** (keyboard shortcut Cmd-L or Ctrl-L)
+   1. This allows you to lock individual items so they aren't easily moved.
+   2. To unlock, use **Object > Unlock All on Spread** (keyboard shortcut Shift-Cmd-L or Shift-Ctrl-L)
+   3. [Learn more](https://helpx.adobe.com/indesign/using/grouping-locking-duplicating-objects.html#lock_or_unlock_objects)
+2. **Parent (master) page items**
+   1. Items on parent pages are locked by default when they appear on active document pages. The best example of this are headers, footers, and page numbers.&#x20;
+   2.  To unlock ALL parent page items, go to the Pages panel, click the [hamburger menu](https://en.wikipedia.org/wiki/Hamburger_button), then click **Override All Parent Page Items**&#x20;
+
+       <div align="left"><figure><img src="../.gitbook/assets/Screenshot 2026-03-03 at 1.08.31 PM.png" alt="" width="188"><figcaption></figcaption></figure></div>
+   3. To unlock a single parent page item, click the item while holding Cmd-Shift or Ctrl-Shift.
+3. **Locked layers**
+   1. Items or groups of items can be locked via the Layers panel.&#x20;
+   2.  In our default proposal templates, the Header Footer layer and the Artboard Notes layer are locked by default.&#x20;
+
+       <div align="left"><figure><img src="../.gitbook/assets/Screenshot 2026-03-03 at 1.14.12 PM.png" alt="" width="162"><figcaption></figcaption></figure></div>
+
+</details>
